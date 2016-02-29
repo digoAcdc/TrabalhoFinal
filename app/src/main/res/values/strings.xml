@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Food</string>
+    <string name="btLogin">Login</string>
+    <string name="txtUsuario">Usuario</string>
+    <string name="txtSenha">Senha</string>
+    <string name="txtEntrar">Entrar</string>
+    <string name="txtCadastrar_se">Cadastra-se agora!</string>
+    <string name="txtCadastrar">Cadastrar</string>
+    <string name="txtTelefone">Telefone</string>
+    <string name="txtNmRestaurante">Nome Restaurante</string>
+    <string name="txtTipo">Tipo</string>
+    <string name="txtTipoRodizio">rodizio</string>
+    <string name="txtTipoFastFood">fast food</string>
+    <string name="txtTipoDomicilio">domicilio</string>
+    <string name="txtTipoIndefinido">indefinido</string>
+    <string name="txtTipoNaoSei">não sei</string>
+    <string name="txtCustoMedio">Custo medio</string>
+    <string name="txtObservacao">Observação</string>
+    <string name="txtListarRestaurantes">Listar Restaurantes</string>
+    <string name="txtInserirRestaurantes">Inserir Restaurantes</string>
+    <string name="txtMapa">Mapa</string>
+    <string name="txtLatitude">Latitude</string>
+    <string name="txtLongitude">Longitude</string>
+    <string name="txtSobre">Sobre</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="txtAbrirCamera">Abrir a Camera</string>
+    <string name="txtTirarFoto">Tirar foto</string>
+    <string name="txtValorZero">0</string>
+    <string name="txtNomeRestaurante">Nome Restaurante</string>
+    <string name="txtVersao">versão 1.0.0</string>
+    <string name="txtDesenvolvedor">by Rodrigo Silveira Barbosa</string>
+    <string name="txtDescApp">FIAP Food  é uma ferramenta para auxiliar  voce que esteja caminhando, por vias públicas e vê um restaurante que lhe interesse. Voce poderá utilizar o seu smartphone para gravar os principais dados (como nome do restaurante, telefone e tipo) e gerenciar o processo de localização.</string>
+    <string name="txtAlterar">Alterar</string>
+    <string name="txtCadastre_se">Cadastre-se</string>
+    <string name="txtLogin">Login</string>
+    <string name="search">tipo, custo médio, nome</string>
+    <string name="splash_name">Meus Restaurantes</string>
+
+</resources>

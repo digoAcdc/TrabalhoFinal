@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipo">
+        <item>@string/txtTipoRodizio</item>
+        <item>@string/txtTipoFastFood</item>
+        <item>@string/txtTipoDomicilio</item>
+        <item>@string/txtTipoIndefinido</item>
+        <item>@string/txtTipoNaoSei</item>
+    </string-array>
+</resources>

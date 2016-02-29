@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/fundo1">
+
+
+    <LinearLayout xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical"
+        tools:context="com.fiap.rodrigo.trabalhofinal.OpcoesActivity">
+
+
+        <Button
+            android:id="@+id/btListaRestaurantes"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:drawableLeft="@drawable/ic_lista"
+            android:text="@string/txtListarRestaurantes"
+            android:textAlignment="textStart" />
+
+        <Button
+            android:id="@+id/btIncluirRestaurante"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:drawableLeft="@drawable/ic_rest"
+            android:text="@string/txtInserirRestaurantes"
+            android:textAlignment="textStart" />
+
+        <Button
+            android:id="@+id/btVisRestNoMapa"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:drawableLeft="@drawable/ic_map"
+            android:text="@string/txtMapa"
+            android:textAlignment="textStart" />
+
+        <Button
+            android:id="@+id/btVisSobre"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:drawableLeft="@drawable/ic_sobre"
+            android:text="@string/txtSobre"
+            android:textAlignment="textStart" />
+
+    </LinearLayout>
+</ScrollView>

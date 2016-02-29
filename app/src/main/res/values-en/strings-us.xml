@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Food</string>
+    <string name="btLogin">Login</string>
+    <string name="txtUsuario">User</string>
+    <string name="txtSenha">Password</string>
+    <string name="txtEntrar">Get in</string>
+    <string name="txtCadastrar_se">sign up now!</string>
+    <string name="txtCadastrar">Register</string>
+    <string name="txtTelefone">Telephone</string>
+    <string name="txtNmRestaurante">Name Restaurant</string>
+    <string name="txtTipo">Kind</string>
+    <string name="txtTipoRodizio">rodizio</string>
+    <string name="txtTipoFastFood">fast food</string>
+    <string name="txtTipoDomicilio">residence</string>
+    <string name="txtTipoIndefinido">undefined</string>
+    <string name="txtTipoNaoSei">do not know</string>
+    <string name="txtCustoMedio">Cost average</string>
+    <string name="txtObservacao">Note</string>
+    <string name="txtListarRestaurantes">List Restaurants</string>
+    <string name="txtInserirRestaurantes">Insert Restaurants</string>
+    <string name="txtMapa">Map</string>
+    <string name="txtLatitude">Latitude</string>
+    <string name="txtLongitude">Longitude</string>
+    <string name="txtSobre">About</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="txtAbrirCamera">Open the camera</string>
+    <string name="txtTirarFoto">Take a picture</string>
+    <string name="txtValorZero">0</string>
+    <string name="txtNomeRestaurante">Name Restaurant</string>
+    <string name="txtVersao">version 1.0.0</string>
+    <string name="txtDesenvolvedor">by Rodrigo Silveira Barbosa</string>
+    <string name="txtDescApp">FIAP Food  It is a tool to help you one who is walking by roads and see a restaurant that interests you. You can use your phone to record key data (such as the restaurant name, telephone number and type) and manage the localization process.</string>
+    <string name="txtAlterar">Change</string>
+    <string name="txtCadastre_se">Register</string>
+    <string name="txtLogin">Login</string>
+    <string name="search">type, average cost, name</string>
+    <string name="splash_name">My Restaurants</string>
+</resources>

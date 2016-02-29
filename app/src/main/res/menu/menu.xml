@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_serach"
+        android:icon="@drawable/ic_search"
+        android:title="@string/search"
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.SearchView" />
+    <item
+        android:id="@+id/mn_cadastrar"
+        android:icon="@drawable/ic_adicionar"
+        android:title="Cadastrar"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/mn_sobre"
+        android:title="Sobre"
+        app:showAsAction="never" />
+
+
+</menu>
